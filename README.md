@@ -14,6 +14,6 @@ To set to enviroment variable, follow steps from [here](https://geek-university.
 > pip install opencv-python
 
 ## Usage
-#### There should be image name page.png is the same folder.
-#### Press any key to exit.
+  - There should be image name page.png is the same folder.
+  - Press any key to exit.
 > python3 main.py
