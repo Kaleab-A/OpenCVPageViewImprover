@@ -6,9 +6,9 @@ It is a simple openCV project to imporve readablity of page of book.It displays 
   - Should have install python 3 and set to environment variable
   - Should have cv2 libirary installed
 
-If python not downloaded, download from [Python.org](https://www.python.org/downloads/)
+To download python, download from [python.org](https://www.python.org/downloads/)
 
-To set to enviroment variable, follow steps from [here](https://geek-university.com/python/add-python-to-the-windows-path/)
+To set it to enviroment variable, follow steps from [here](https://geek-university.com/python/add-python-to-the-windows-path/)
 
 ### To install openCV in python, run this on command line:
 > pip install opencv-python
