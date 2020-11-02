@@ -15,5 +15,5 @@ To set it to enviroment variable, follow steps from [here](https://geek-universi
 
 ## Usage
   - There should be image name page.png is the same folder.
-  - Press any key to exit.
 > python3 main.py
+  - Press any key to exit.
