@@ -1,6 +1,6 @@
 # OpenCV Page View Improver
 
-It is a simple openCV project to imporve readablity of page of book.It displays 4 windows with the orginal, binary threshold, Gaus Threshold, and Otsu Threshold Images.
+It is a simple openCV project to imporve readablity of page of book.It displays 4 windows with the orginal, binary threshold, Gaussian Threshold, and Ostu Threshold Images.
 
 ## Requirement to run
   - Should have install python 3 and set to environment variable
